@@ -1,4 +1,5 @@
 # Hide/Show Desktop Icons
+> Hide and show desktop icons for MacOS Monterey.
 ## How to Use
 Download the `hide desktop.command` & move it to your Desktop.
 
